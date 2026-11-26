@@ -10,6 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=CS+Undergrad+%40+UCSC+%F0%9F%87%B1%F0%9F%87%B0;Full-stack+Developer;Matching+%26+live+tracking+%40+Fixy;Building+ClanBridge%2C+live+on+Vercel" alt="Typing SVG" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashindu-kalshan-9365ba335)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashindukalshan173@gmail.com)
 ![Open to internships](https://img.shields.io/badge/Open%20to-SE%20Internships-38BDF8?style=for-the-badge)
 
